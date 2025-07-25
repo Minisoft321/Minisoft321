@@ -19,7 +19,7 @@
 
 ## 📈 My GitHub Shenanigans
 ![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=gruvbox&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=gruvbox&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minisoft321&show_icons=true&theme=gruvbox&hide_border=true)
 
 ---
 
